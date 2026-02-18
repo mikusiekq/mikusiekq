@@ -14,6 +14,10 @@ Here are the languages I work with:
 
 ---
 
+# Founder & Project Leader [comethost](https://comethost.pl)
+
+---
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mikusiek.Mikusiek)
 
 ---
