@@ -1,11 +1,11 @@
-# Hi , I'm Mikusiek! 👋
+# Hi, I'm Mikusiek! 👋 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mikusiek.Mikusiek)
 
-Junior Frontend Developer (I'm learning Backend)
+**Junior Frontend Developer (learning Backend)**
+
 ---
 
 ### 🛠 Languages & Technologies
-
-Here are the languages I work with:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -14,10 +14,15 @@ Here are the languages I work with:
 
 ---
 
-# Founder & Project Leader [logocometa](https://www.comethost.pl/logo.png) [comethost](https://comethost.pl)
+### 🚀 Projects & Leadership
+
+**Founder & Project Leader at [COMETHOST](https://comethost.pl)**
+
+<a href="https://comethost.pl">
+  <img src="https://www.comethost.pl/logo.png" alt="Comethost Logo" width="200">
+</a>
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mikusiek.Mikusiek)
-
----
+### 📊 My Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Mikusiek&show_icons=true&theme=radical)
