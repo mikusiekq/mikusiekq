@@ -14,9 +14,8 @@
 
 ---
 
-**Founder & Project Leader at** [<img src="https://www.comethost.pl/logo.png" alt="Comethost Logo" height="25"> **Comethost**](https://comethost.pl)
+**Founder & Project Leader at** [<img src="https://www.comethost.pl/logo.png" alt="Comethost Logo" height="25"> **COMETHOST**](https://comethost.pl)
 
 ---
 
-### 📊 My Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Mikusiek&show_icons=true&theme=radical)
+![staty](https://github-readme-stats.vercel.app/api?username=Mikusiek&show_icons=true&theme=radical)
