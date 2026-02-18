@@ -14,7 +14,7 @@ Here are the languages I work with:
 
 ---
 
-# Founder & Project Leader [comethost](https://comethost.pl)
+# Founder & Project Leader [logocometa](https://www.comethost.pl/logo.png) [comethost](https://comethost.pl)
 
 ---
 
