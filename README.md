@@ -14,13 +14,7 @@
 
 ---
 
-### 🚀 Projects & Leadership
-
-**Founder & Project Leader at [COMETHOST](https://comethost.pl)**
-
-<a href="https://comethost.pl">
-  <img src="https://www.comethost.pl/logo.png" alt="Comethost Logo" width="200">
-</a>
+**Founder & Project Leader at** [<img src="https://www.comethost.pl/logo.png" alt="Comethost Logo" height="25"> **Comethost**](https://comethost.pl)
 
 ---
 
