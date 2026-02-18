@@ -1,7 +1,9 @@
 # Hi, I'm Mikusiek! 👋 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mikusiek.Mikusiek)
 
-**Junior Frontend Developer (learning Backend)**
+---
+
+### Junior Frontend Developer (learning Backend)
 
 ---
 
