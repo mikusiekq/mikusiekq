@@ -14,8 +14,6 @@ Here are the languages I work with:
 
 ---
 
-### 📊 My GitHub Stats
-
-![Mikusiek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikusiek&show_icons=true&theme=radical)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mikusiek.Mikusiek)
 
 ---
