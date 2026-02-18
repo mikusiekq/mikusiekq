@@ -1,6 +1,6 @@
 # Hi , I'm Mikusiek! 👋
 
-Frontend Developer (I'm learning Backend)
+Junior Frontend Developer (I'm learning Backend)
 ---
 
 ### 🛠 Languages & Technologies
